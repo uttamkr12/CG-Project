@@ -1,10 +1,9 @@
 # CG-Project
-This Project was created to demostrate the understanding of open GL lib.
+This Project was created to demonstrate the understanding of open GL lib.
 
 #Language Used : C++
 
-Please Go through the screen shots.
-https://user-images.githubusercontent.com/53533353/99190691-1ff63300-278e-11eb-994a-8aef1412a0f0.jpeg
+Please go through the screen shots.
 
 https://user-images.githubusercontent.com/53533353/99190693-21bff680-278e-11eb-9949-8dcac45358aa.jpeg
 
